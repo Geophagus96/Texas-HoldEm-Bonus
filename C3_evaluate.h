@@ -1,6 +1,7 @@
 #include <iostream>
 #include <math.h>
 #include "SevenEval.h"
+
 using namespace std;
 
 double Expectation_3(int X1, int X2, int X3, int X4, int X5, int X6, int simulation_times_3, int cards[52]);
