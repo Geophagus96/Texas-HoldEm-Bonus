@@ -45,6 +45,8 @@ double Expectation_3(int X1, int X2, int X3, int X4, int X5, int X6, int simulat
             lose_times += 1;
         }
     }
-    return 0;
-}
-
+    double win_time = win_times;
+    double lose_time = lose_times;
+    double prob = win_time/(win_time+lose_time);
+    return prob;
+  }
