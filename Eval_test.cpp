@@ -1,6 +1,6 @@
 #include <iostream>
 #include "SevenEval.h"
-#include "C3_evaluate.h"
+#include "Evaluator.h"
 #include <math.h>
 
 using namespace std;
