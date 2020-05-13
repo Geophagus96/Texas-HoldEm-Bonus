@@ -3,7 +3,7 @@
 
 The evaluator of cards is credited to [Kenneth](https://github.com/kennethshackleton/SKPokerEval), where the larger the evaluator number is ,the better the deck of cards is.
 
-Before running any evaluating functions for the three different rules of the game, please download all header files and keep them in the same file holder.
+Before running any evaluating functions for the three different rules of the game, please download all header files and keep them with the evaluting files in the same file holder.
 
 ## Standard Game Rules
 The header file containing the functions for evaluating the expectations for different initial situations for the standard game rule is included in [Evaluate_ante.h](https://github.com/Geophagus96/Texas-HoldEm-Bonus/blob/master/Evaluator_ante.h). To access the evaluating results, please run file [Eval_test_ante_Peng.cpp](https://github.com/Geophagus96/Texas-HoldEm-Bonus/blob/master/Eval_test_ante_Peng.cpp).
